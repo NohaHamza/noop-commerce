@@ -1,0 +1,12 @@
+.idea/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+/build/
+/android/.gradle/
+pubspec.lock
+
+# MobX.dart generated files
+*.g.dart

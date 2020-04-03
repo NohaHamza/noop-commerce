@@ -2,7 +2,7 @@
 
 A complete e-commerce starter app with customisable [Material Design](https://material.io/) theme built with [Flutter](https://flutter.dev/) that connects to a [Mezzanine CMS](http://mezzanine.jupo.org/) installation, and integrates with [Stripe](https://stripe.com/), or with any of the [configurable payment handlers](http://cartridge.jupo.org/integration.html#payment).
 
-[See the accompanying blog post.](https://www.indecorous.tk/blog/so-you-want-an-e-commerce-website-with-phone-apps-to-go-with-it/)
+[See the accompanying blog post.](https://www.indecorous.online/blog/so-you-want-an-e-commerce-website-with-phone-apps-to-go-with-it/)
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sTZBGpQ)
 
